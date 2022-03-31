@@ -1,0 +1,167 @@
+soundSet:
+  name: Hentai Gentle
+  normalBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe10.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe11.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe12.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe13.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe14.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe15.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe16.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe17.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxMoanBreathe8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxMoanBreathe9.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe4.mp3
+  breatheIn:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreatheIn2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreatheIn3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreatheIn4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreatheIn5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreatheIn6.mp3
+  fastBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreathe9.mp3
+  suddenBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCoughBreathe2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCoughBreathe6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCoughBreathe7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCoughBreathe8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCoughBreathe10.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxBreatheIn1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxMoanBreathe6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxMoanBreathe7.mp3
+  quietBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxQuietBreath1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxQuietBreath2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxQuietBreath3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxQuietBreath4.mp3
+  down:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown9.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxDown10.mp3
+  touch:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxTouch1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxTouch2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxTouch3.mp3
+  gag:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag9.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag10.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag11.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag12.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag13.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag14.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGag15.mp3
+  suck:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck9.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck10.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck11.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck12.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck13.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck14.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck15.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck16.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck17.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSuck18.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxMoanSuck1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxMoanSuck2.mp3
+  cough:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCough1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCough2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCough3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCough4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCough5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCough6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCough7.mp3
+  openCough:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough9.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough10.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough11.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxOpenCough12.mp3
+  held:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld5.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld8.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld9.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld10.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld11.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld12.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxHeld13.mp3
+  splat:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSplat1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSplat2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSplat3.mp3
+  passOut:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxPassOut1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxPassOut2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxPassOut3.mp3
+  swallow:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow5.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow9.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow10.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow11.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxSwallow12.mp3
+  lick:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxLick8.mp3
+  cum:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCum1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCum2.wav
+  cumInside:
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCumInside1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxCumInside2.wav
+  grab:
+    - Mods/SoundSetTest/Audio/Hentai_Gentle/sfxGrab.mp3
+  rub: Mods/SoundSetTest/Audio/Hentai_Gentle/sfxRub.mp3
+  intro: Mods/SoundSetTest/Audio/Hentai_Gentle/sfxIntro.mp3

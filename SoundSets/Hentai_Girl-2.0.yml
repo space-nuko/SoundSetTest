@@ -1,0 +1,167 @@
+soundSet:
+  name: Hentai Girl 2.0
+  normalBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck10.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe11.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe12.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe13.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe14.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe15.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe16.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe17.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxMoanBreathe8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxMoanBreathe9.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe4.wav
+  breatheIn:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreatheIn2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreatheIn3.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreatheIn4.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreatheIn5.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreatheIn6.wav
+  fastBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe5.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe8.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreathe9.wav
+  suddenBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCoughBreathe2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCoughBreathe6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCoughBreathe7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCoughBreathe8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCoughBreathe10.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxBreatheIn1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxMoanBreathe6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxMoanBreathe7.mp3
+  quietBreath:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxQuietBreath1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxQuietBreath2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxQuietBreath3.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxQuietBreath4.wav
+  down:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown8.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown9.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxDown10.mp3
+  touch:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxTouch1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxTouch2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxTouch3.mp3
+  gag:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag3.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag4.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag5.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag8.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag9.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag10.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag11.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag12.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag13.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag14.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGag15.wav
+  suck:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck5.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck9.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck10.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck11.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck12.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck13.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck14.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck15.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck16.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck17.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSuck18.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxMoanSuck1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxMoanSuck2.wav
+  cough:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCough1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCough2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCough3.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCough4.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCough5.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCough6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCough7.wav
+  openCough:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough8.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough9.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough10.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough11.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxOpenCough12.wav
+  held:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld3.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld4.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld8.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld9.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld10.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld11.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld12.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxHeld13.wav
+  splat:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSplat1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSplat2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSplat3.wav
+  passOut:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxPassOut1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxPassOut2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxPassOut3.mp3
+  swallow:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow2.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow3.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow4.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow6.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow7.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow8.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow9.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow10.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow11.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxSwallow12.wav
+  lick:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick1.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick2.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick3.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick4.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick5.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick6.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick7.mp3
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxLick8.mp3
+  cum:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCum1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCum2.wav
+  cumInside:
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCumInside1.wav
+  - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxCumInside2.wav
+  grab:
+    - Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxGrab.mp3
+  rub: Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxRub.mp3
+  intro: Mods/SoundSetTest/Audio/Hentai_Girl-2.0/sfxIntro.mp3
